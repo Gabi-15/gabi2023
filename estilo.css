@@ -17,14 +17,10 @@ font-family: Inter;
 }
 
 .cabec{
-    display: flex;
-    width: 302px;
-    height: 42px;
-    flex-direction: column;
-    flex-shrink: 0;
-    color: #FFF;
-font-size: 30px;
-font-family: Inter;
+   width: 1440px;
+   height: 382px;
+   flex-shrink: 0;
+   background: #41A6A6;
 }
 
 .cabec-avatar{
@@ -38,4 +34,65 @@ font-family: Inter;
     font-size: 30px;
     font-family: Inter;
     Eu sou Gabrieli e tenho 16 anos
+}
+
+.cabec{
+    width: 1440px;
+height: 490px;
+flex-shrink: 0;
+background: linear-gradient(180deg, #41A6A6 0%, rgba(217, 217, 217, 0.00) 100%);
+}
+
+.menu-texto{
+    color: #000;
+    font-size: 30px;
+    font-family: Inter;
+    Meus gostos e hobbies:
+}
+
+.imagem{
+    width: 220px;
+    height: 144px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.imagem{
+    width: 220px;
+    height: 144px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.imagem{
+    width: 220px;
+    height: 150px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.imagem{
+    width: 222px;
+    height: 150px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.imagem{
+    width: 222px;
+    height: 153px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.cabec{
+    width: 1440px;
+    height: 1014px;
+    background: #FFF;
+}
+
+.menu-texto{
+    color: #000;
+    font-size: 30px;
+    font-family: Inter;
+    “não desista dos seus sonhos”
 }
