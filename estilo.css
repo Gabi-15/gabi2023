@@ -16,7 +16,7 @@ font-size: 30px;
 font-family: Inter;
 }
 
-.cabec{<
+.cabec{
    width: 1440px;
    height: 382px;
    flex-shrink: 0;
@@ -26,36 +26,14 @@ font-family: Inter;
 .cabec-avatar{
     width: 330px;
     height: 340px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat; 
+    
 }
 
 .cabec-texto{
     color: #FFF8F8;
     font-size: 30px;
     font-family: Inter;
-    Eu sou Gabrieli e tenho 16 anos
-}
-
-.cabec{
-    width: 1440px;-avatar" src="Arquivo de Gabrieli 1.png">
-    <p class="cabec-texto">Eu sou Gabrieli e tenho 16 anos</p>
-</div>
-    height: 490px;
-    flex-shrink: 0;
-    background: linear-gradient(180deg, #41A6A6 0%, rgba(217, 217, 217, 0.00) 100%);
-}
-
-.cabec-texto{
-    color: #FFF8F8;
-    font-size: 30px;
-    font-family: Inter;
-}
-
-.menu-texto{
-    color: #000;
-    font-size: 30px;
-    font-family: Inter;
-    Meus gostos e hobbies:
+    
 }
 
 .imagem{
