@@ -6,15 +6,15 @@ background: #41A6A6;
 }
 
 .menu-texto{
-    display: flex;
-width: 302px;
+    width: 302px;
 height: 42px;
-flex-direction: column;
 flex-shrink: 0;
 color: #FFF;
-font-size: 30px;
 font-family: Inter;
-}
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;}
 
 .cabec{
    width: 1440px;
