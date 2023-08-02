@@ -39,45 +39,8 @@ line-height: normal;
     
 }
 
-.imagem{
-    width: 220px;
-    height: 144px;
-    flex-shrink: 0;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
 
-.imagem{
-    width: 220px;
-    height: 144px;
-    flex-shrink: 0;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
 
-.imagem{
-    width: 220px;
-    height: 150px;
-    flex-shrink: 0;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
-
-.imagem{
-    width: 222px;
-    height: 150px;
-    flex-shrink: 0;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
-
-.imagem{
-    width: 222px;
-    height: 153px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
-
-.cabec{
-    width: 1440px;
-    height: 1014px;
-    background: #FFF;
-}
 
 .mensagem-texto{
     color: #000;
@@ -86,12 +49,15 @@ line-height: normal;
     “não desista dos seus sonhos”;
 }
 .corpo{
+    width: 1440px;
+height: 490px;
+flex-shrink: 0;
     display: grid;
     text-align: center;
     grid-template-columns: 30% 30% 30%;
     position: absolute;
     left: 320px;
-    width: 1000px;
+    background: linear-gradient(180deg, #41A6A6 0%, rgba(217, 217, 217, 0.00) 100%);
 }
 .corpo-itens{
     text-align: center;
