@@ -52,6 +52,8 @@ background: linear-gradient(180deg, #74A498 0%, rgba(107, 195, 174, 0.00) 0%, rg
     font-size: 30px;
     font-family: Inter;
     “não desista dos seus sonhos”;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .corpo{
