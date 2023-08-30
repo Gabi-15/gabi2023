@@ -1,3 +1,10 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
 .menu{
     width: 1440px;
 height: 54px;
